@@ -1,6 +1,6 @@
 {
   "name": "flow-test",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Testing git flow and bumping and tagging",
   "dependencies": {
     "grunt": "^0.4.5",
