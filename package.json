@@ -1,0 +1,23 @@
+{
+  "name": "flow-test",
+  "version": "0.0.1",
+  "description": "Testing git flow and bumping and tagging",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnan-i/flow-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnan-i/flow-test/issues"
+  },
+  "homepage": "https://github.com/adnan-i/flow-test#readme"
+}
